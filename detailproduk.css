@@ -1,0 +1,129 @@
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: var(--white);
+      user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      -khtml-user-select: none;
+      -webkit-user-select: none;
+      padding: 0;
+      margin: 0;
+      animation: fade-in 2s linear;
+    }
+     swiper-container {
+      width: 100%;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+
+    swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: 250px;
+      height: 250px;
+
+    }
+
+    swiper-slide img {
+      display: block;
+      border-radius: 10px;
+      width: 100%;
+    }
+    .base{
+     background: #f1f1f1;
+     padding: 3px;
+     border-radius: 100px;
+     width: 100%;
+     margin-top: 15px;
+     margin-bottom: 15px;
+    }
+    .nama-produk{
+     font-size: 15px;
+     font-weight: bold;
+     color: black;
+    }
+    .harga-produk{
+     font-size: 14px;
+     font-weight: 700;
+     color: var(--main);
+    }
+    .deskripsi-singkat{
+     font-weight: 500;
+     color: gray;
+     font-size: 14px;
+    }
+    .deskripsi-panjang{
+     font-weight: 400;
+     color: black;
+     font-size: 14px;
+    }
+    .buy{
+     width: 100%;
+     background: var(--main);
+     color: white;
+     font-size: 14px;
+     outline: none;
+     border: none;
+     border-radius: 5px;
+     padding: 8px;
+     font-weight: bold;
+    }
+    .cart{
+     background: transparent;
+     border: none;
+    }
+    .cart img{
+     width: 27px;
+     margin-left: 10px;
+    }
+    .share{
+     background: transparent;
+     border: none;
+    }
+    .share img{
+     width: 25px;
+     margin-left: 0px;
+     margin-right: 5px;
+    }
+    .fix-bottom{
+      position: fixed;
+      bottom: 0;
+      padding: 10px;
+      background: white;
+      left: 0;
+      width: 100%;
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    }
+    table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        td{
+          font-size: 13px;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-size: 13px;
+        }
+      span{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(0, 196, 0);
+    margin-bottom: 0px;
+    margin-top: 3px;
+  }
+  .verif{
+    width: 22px;
+    margin-right: 5px;
+  }
+  .labels{
+    margin-top: -25px;
+    margin-bottom: 5px;
+  }
