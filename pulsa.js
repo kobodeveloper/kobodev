@@ -1,1 +1,257 @@
- function _0x3621(_0x391563,_0x429a03){var _0x4f541e=_0x4f54();return _0x3621=function(_0x362171,_0x3ba333){_0x362171=_0x362171-0x10c;var _0x438e1=_0x4f541e[_0x362171];return _0x438e1;},_0x3621(_0x391563,_0x429a03);}function _0x4f54(){var _0x3f37c2=['734ItQFsO','ajax','0878','price_old','<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/975223121e.jpg\x22\x20alt=\x22\x22>','<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/94542056.jpg\x22\x20alt=\x22\x22>','#nama_produk','<div\x20class=\x22coloading\x22><div\x20class=\x22loader\x22></div></div>','addClass','441947ztLRJr','show','offcanvas','1473IgcDXF','#tf','10195647MSqpdL','replace','span#addon_pulsa_opt','Indosat','30inmnCD','\x22>\x20<span\x20class=\x22text-decoration-line-through\x22>','#reg','<br/>-\x20','href','By.U','</p><p\x20class=\x22caption-produk\x22>Langsung\x20Masuk\x20Ke\x20Nomor\x20tujuan</p><p\x20class=\x22harga-item\x22>','0851','#modalTrx','val','#modalDetail','data','<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/16338585.jpg\x22\x20alt=\x22\x22>','desc','/ambil_kontak','#loading','521424Xljyql','#harga2','0819','<img\x20src=\x22https://i.ibb.co/N6KhhY1/indosat-logo-by-idiotz.png\x22\x20alt=\x22\x22>','Axis','substring','full_bolds','#link-extra-info','0813','<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/841353370t.jpg\x22\x20alt=\x22\x22>','0858','0889','0814','8387680BAHOKB','span#addon_pulsa','html','0899','<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/502555766s.jpg\x22\x20alt=\x22\x22>','XL\x20Axiata','25548NQfsSJ','Oops...','<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/21570258.jpg\x22\x20alt=\x22\x22>','#full-desc','change','<button\x20class=\x22d-produk\x22\x20id=\x22btn-link\x22\x20onclick=\x22getDetail(\x27','Telkomsel','.submit-form','#full-text','Smartfren','#linkBeli','#data','<div\x20class=\x27kosong\x20mt-5\x27><div\x20class=\x20\x27container\x20text-center\x27><p>\x20Produk\x20Belum\x20Tersedia</p></div\x20>\x20','removeClass','0852','trim','span#addon_pulsa_name','0816','0811','+62','0823','length','Loading...','#no_tujuan','span#addon_pulsa2','108sBaYde','0818','#nohp','https://kobodev.xyz/sistem/api/product.php','d-none','location','0877','0855','full_text','Tri','#mask','click','hide','13374aedzdi','#display','#fake','0859','prices','0896','submit','attr','#short-desc','#link-extra-info\x20input','348SSRorf','0833','<div\x20class=\x27nothings\x20container\x20text-center\x27><img\x20src=\x27https://cdn-icons-png.flaticon.com/128/12324/12324286.png\x27><p>Operator\x20Tidak\x20Ditemukan</p></div>','0821','each','0853','0886','0881','3140OkzOWl','names','off','error','#info','links','full','append','0838','name','action','#harga','0857','text','<i\x20class=\x22fas\x20fa-do-not-enter\x22\x20style=\x22color:red;\x22></i>','XL-Axiata','JSON','POST','0856','0822','</span>\x20<span\x20class=\x22\x20text-white\x20rounded\x22\x20style=\x22font-size:10px;\x22>\x20-','\x20OFF</span></p></div><div></div></div></button>','0898'];_0x4f54=function(){return _0x3f37c2;};return _0x4f54();}var _0x59aae3=_0x3621;(function(_0x2a76db,_0x2e9482){var _0x14c92b=_0x3621,_0x4620db=_0x2a76db();while(!![]){try{var _0x3389be=-parseInt(_0x14c92b(0x10c))/0x1*(parseInt(_0x14c92b(0x184))/0x2)+-parseInt(_0x14c92b(0x135))/0x3*(-parseInt(_0x14c92b(0x165))/0x4)+parseInt(_0x14c92b(0x112))/0x5*(-parseInt(_0x14c92b(0x122))/0x6)+parseInt(_0x14c92b(0x10e))/0x7+-parseInt(_0x14c92b(0x12f))/0x8+-parseInt(_0x14c92b(0x15b))/0x9*(-parseInt(_0x14c92b(0x16d))/0xa)+parseInt(_0x14c92b(0x18d))/0xb*(parseInt(_0x14c92b(0x14e))/0xc);if(_0x3389be===_0x2e9482)break;else _0x4620db['push'](_0x4620db['shift']());}catch(_0x179f3d){_0x4620db['push'](_0x4620db['shift']());}}}(_0x4f54,0xdf6bf));function getContact(){var _0x27546e=_0x3621;window[_0x27546e(0x153)][_0x27546e(0x116)]=linkOlshop+_0x27546e(0x120);}$(_0x59aae3(0x150))['on']('input',function(){var _0x17573f=_0x59aae3;$(_0x17573f(0x150))[_0x17573f(0x139)]();});var nohp=[];$(_0x59aae3(0x150))['on'](_0x59aae3(0x139),function(){var _0x215c7a=_0x59aae3,_0x2d8669=$(this)[_0x215c7a(0x11b)]();newno=_0x2d8669['replace']('-','')[_0x215c7a(0x144)]();var _0x6d8c12=newno['substring'](0x0,0x3)[_0x215c7a(0x10f)]('-','')[_0x215c7a(0x144)](),_0x402346=newno[_0x215c7a(0x127)](0x3,0x10)['replace']('-','')[_0x215c7a(0x144)]();if(_0x6d8c12==_0x215c7a(0x148)){let _0x54306f=0x0;$(this)[_0x215c7a(0x11b)](_0x54306f+_0x402346),getNmr(_0x54306f+_0x402346);}else $(this)[_0x215c7a(0x11b)](_0x6d8c12+_0x402346),getNmr(_0x6d8c12+_0x402346);});function getNmr(_0x17e707){var _0x465ae1=_0x59aae3,_0x65f1d=_0x17e707[_0x465ae1(0x127)](0x0,0x4);if(_0x65f1d[_0x465ae1(0x14a)]>0x3&&nohp[0x0]!=_0x65f1d)nohp[0x0]=_0x65f1d,cekNmr(nohp[0x0]);else{}}function cekNmr(_0x188602){var _0x4c4a7a=_0x59aae3;$(_0x4c4a7a(0x15c))['removeClass'](_0x4c4a7a(0x152));var _0x5f48e1='',_0x4d0aa4='',_0x39def1='';if(_0x188602[_0x4c4a7a(0x14a)]<0x4)$(_0x4c4a7a(0x130))['html'](_0x4c4a7a(0x170)),$(_0x4c4a7a(0x15c))[_0x4c4a7a(0x15a)](),$('#info')['html']('<div\x20class=\x27d-grid\x27><div\x20class=\x27container\x20text-center\x27>Nomor\x20Tidak\x20Lengkap\x20/\x20Kode\x20Operator\x20Tidak\x20Ditemukan.</div></div>');else{$('#display')[_0x4c4a7a(0x18e)](),$(_0x4c4a7a(0x171))['html'](''),$(_0x4c4a7a(0x121))[_0x4c4a7a(0x131)]('');if(_0x188602==_0x4c4a7a(0x147)||_0x188602=='0812'||_0x188602==_0x4c4a7a(0x12a)||_0x188602==_0x4c4a7a(0x168)||_0x188602==_0x4c4a7a(0x180)||_0x188602==_0x4c4a7a(0x149)||_0x188602==_0x4c4a7a(0x143)||_0x188602==_0x4c4a7a(0x16a))$(_0x4c4a7a(0x130))[_0x4c4a7a(0x131)](''),$(_0x4c4a7a(0x145))[_0x4c4a7a(0x131)](_0x4c4a7a(0x13b)),$(_0x4c4a7a(0x130))['html'](_0x4c4a7a(0x133)),$(_0x4c4a7a(0x14d))[_0x4c4a7a(0x131)]('<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/502555766s.jpg\x22\x20alt=\x22\x22>'),$(_0x4c4a7a(0x110))['html']('Telkomsel'),_0x5f48e1=telkomselReguler,_0x4d0aa4=telkomselTransfer;else{if(_0x188602==_0x4c4a7a(0x12e)||_0x188602=='0815'||_0x188602==_0x4c4a7a(0x146)||_0x188602==_0x4c4a7a(0x155)||_0x188602==_0x4c4a7a(0x17f)||_0x188602==_0x4c4a7a(0x179)||_0x188602==_0x4c4a7a(0x12c))$(_0x4c4a7a(0x130))['html'](''),$('span#addon_pulsa_name')[_0x4c4a7a(0x131)](_0x4c4a7a(0x111)),$(_0x4c4a7a(0x130))['html'](_0x4c4a7a(0x125)),$(_0x4c4a7a(0x14d))[_0x4c4a7a(0x131)](_0x4c4a7a(0x125)),$(_0x4c4a7a(0x110))[_0x4c4a7a(0x131)](_0x4c4a7a(0x111)),_0x5f48e1=indosatReguler,_0x4d0aa4=indosatTransfer;else{if(_0x188602==_0x4c4a7a(0x119))$(_0x4c4a7a(0x130))['html'](''),$(_0x4c4a7a(0x145))[_0x4c4a7a(0x131)](_0x4c4a7a(0x117)),$('span#addon_pulsa')['html'](_0x4c4a7a(0x188)),$(_0x4c4a7a(0x14d))['html'](_0x4c4a7a(0x188)),$('span#addon_pulsa_opt')['html'](_0x4c4a7a(0x117)),_0x5f48e1=byuReguler,_0x4d0aa4=byuTransfer;else{if(_0x188602=='0817'||_0x188602==_0x4c4a7a(0x14f)||_0x188602==_0x4c4a7a(0x124)||_0x188602==_0x4c4a7a(0x15e)||_0x188602==_0x4c4a7a(0x154)||_0x188602==_0x4c4a7a(0x186))$(_0x4c4a7a(0x130))[_0x4c4a7a(0x131)](''),$('span#addon_pulsa_name')[_0x4c4a7a(0x131)](_0x4c4a7a(0x134)),$(_0x4c4a7a(0x130))[_0x4c4a7a(0x131)]('<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/841353370t.jpg\x22\x20alt=\x22\x22>'),$(_0x4c4a7a(0x14d))[_0x4c4a7a(0x131)](_0x4c4a7a(0x12b)),$('span#addon_pulsa_opt')[_0x4c4a7a(0x131)](_0x4c4a7a(0x17c)),_0x5f48e1=xlReguler,_0x4d0aa4=xlTransfer;else{if(_0x188602==_0x4c4a7a(0x175)||_0x188602=='0831'||_0x188602=='0832'||_0x188602==_0x4c4a7a(0x166))$(_0x4c4a7a(0x130))[_0x4c4a7a(0x131)](''),$('span#addon_pulsa_name')['html'](_0x4c4a7a(0x126)),$(_0x4c4a7a(0x130))[_0x4c4a7a(0x131)](_0x4c4a7a(0x11e)),$(_0x4c4a7a(0x14d))[_0x4c4a7a(0x131)](_0x4c4a7a(0x11e)),$(_0x4c4a7a(0x110))[_0x4c4a7a(0x131)](_0x4c4a7a(0x126)),_0x5f48e1=axisReguler,_0x4d0aa4=axisTransfer;else{if(_0x188602=='0895'||_0x188602==_0x4c4a7a(0x160)||_0x188602=='0897'||_0x188602==_0x4c4a7a(0x183)||_0x188602==_0x4c4a7a(0x132))$('span#addon_pulsa')[_0x4c4a7a(0x131)](''),$(_0x4c4a7a(0x145))['html'](_0x4c4a7a(0x157)),$(_0x4c4a7a(0x130))['html']('<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/94542056.jpg\x22\x20alt=\x22\x22>'),$(_0x4c4a7a(0x14d))[_0x4c4a7a(0x131)](_0x4c4a7a(0x189)),$(_0x4c4a7a(0x110))[_0x4c4a7a(0x131)](_0x4c4a7a(0x157)),_0x5f48e1=triReguler,_0x4d0aa4=triTransfer;else _0x188602==_0x4c4a7a(0x16c)||_0x188602=='0882'||_0x188602=='0883'||_0x188602=='0884'||_0x188602=='0885'||_0x188602==_0x4c4a7a(0x16b)||_0x188602=='0887'||_0x188602=='0888'||_0x188602==_0x4c4a7a(0x12d)?($(_0x4c4a7a(0x130))[_0x4c4a7a(0x131)](''),$(_0x4c4a7a(0x145))[_0x4c4a7a(0x131)](_0x4c4a7a(0x13e)),$('span#addon_pulsa')[_0x4c4a7a(0x131)](_0x4c4a7a(0x137)),$(_0x4c4a7a(0x14d))['html']('<img\x20src=\x22https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/21570258.jpg\x22\x20alt=\x22\x22>'),$(_0x4c4a7a(0x110))[_0x4c4a7a(0x131)](_0x4c4a7a(0x13e)),_0x5f48e1=smartfrenReguler,_0x4d0aa4=smartfrenTransfer):($('span#addon_pulsa')['html'](_0x4c4a7a(0x17b)),$('#display')[_0x4c4a7a(0x15a)](),$(_0x4c4a7a(0x140))[_0x4c4a7a(0x131)](''),$('#info')[_0x4c4a7a(0x131)](_0x4c4a7a(0x167)));}}}}}}$(_0x4c4a7a(0x114))[_0x4c4a7a(0x16f)](_0x4c4a7a(0x159)),$(_0x4c4a7a(0x10d))['off']('click'),$(_0x4c4a7a(0x114))['on'](_0x4c4a7a(0x159),function(){getData(_0x5f48e1);}),$(_0x4c4a7a(0x10d))['on'](_0x4c4a7a(0x159),function(){getData(_0x4d0aa4);}),getData(_0x5f48e1);}function getData(_0x994907){var _0x43553e=_0x59aae3,_0x5ecc66=$(_0x43553e(0x150))[_0x43553e(0x11b)](),_0x5412d0=linkOlshop;$[_0x43553e(0x185)]({'type':_0x43553e(0x17e),'url':_0x43553e(0x151),'data':{'api_key':key,'main':'','kategori':_0x994907},'dataType':_0x43553e(0x17d),'beforeSend':function(){var _0x3b4426=_0x43553e;$(_0x3b4426(0x11c))[_0x3b4426(0x131)](''),$('#data')[_0x3b4426(0x131)]('');for(let _0x996ab6=0x0;_0x996ab6<0x1;_0x996ab6++)$('#fake')['append'](_0x3b4426(0x18b));},'success':function(_0x35cee4){var _0x122224=_0x43553e;$(_0x122224(0x121))[_0x122224(0x131)](''),$(_0x122224(0x15d))[_0x122224(0x131)](''),_0x35cee4[_0x122224(0x11d)][_0x122224(0x14a)]!==0x0?$[_0x122224(0x169)](_0x35cee4['data'],function(_0x326133,_0x570826){var _0x2fb0a9=_0x122224;$(_0x2fb0a9(0x140))[_0x2fb0a9(0x174)](_0x2fb0a9(0x13a)+_0x570826[_0x2fb0a9(0x172)]+'\x27)\x22><div\x20class=\x22w-100\x22><p\x20id=\x22prod-name\x22\x20class=\x22nama-item\x22>'+_0x570826[_0x2fb0a9(0x16e)]+_0x2fb0a9(0x118)+_0x570826[_0x2fb0a9(0x15f)]+'</p><p\x20class=\x22m-0\x20diskon\x22\x20id=\x22d'+_0x326133+_0x2fb0a9(0x113)+_0x570826[_0x2fb0a9(0x187)]+_0x2fb0a9(0x181)+_0x570826['discount']+_0x2fb0a9(0x182));let _0xcbb086=jQuery['isEmptyObject'](_0x570826['discount'])?$('#d'+_0x326133)[_0x2fb0a9(0x18c)]('d-none'):_0x570826['discount'];}):$('#data')[_0x122224(0x131)](_0x122224(0x141));},'error':function(){}}),$(document)['on'](_0x43553e(0x159),_0x43553e(0x13c),function(){var _0x371750=_0x43553e,_0xcebb10=$(_0x371750(0x150))[_0x371750(0x11b)]();return $(_0x371750(0x164))['val'](_0xcebb10),$(_0x371750(0x129))['attr'](_0x371750(0x177),$(this)[_0x371750(0x162)](_0x371750(0x116))),$(_0x371750(0x129))[_0x371750(0x161)](),![];});}function getDetail(_0x54bbba){var _0x1eed1f=_0x59aae3,_0x3b6817=$(_0x1eed1f(0x150))[_0x1eed1f(0x11b)]();_0x3b6817==''?Swal['fire']({'icon':'error','title':_0x1eed1f(0x136),'text':'No\x20Tujuan\x20Tidak\x20Boleh\x20Kosong!'}):($(_0x1eed1f(0x13f))[_0x1eed1f(0x162)](_0x1eed1f(0x116),'#'),$[_0x1eed1f(0x185)]({'type':'POST','url':'https://kobodev.xyz/sistem/api/detail.php','data':{'detail':_0x54bbba,'api_key':key},'dataType':'JSON','beforeSend':function(){var _0x26b133=_0x1eed1f;$(_0x26b133(0x18a))['text'](_0x26b133(0x14b)),$(_0x26b133(0x14c))['text']('Loading...'),$(_0x26b133(0x178))[_0x26b133(0x17a)](_0x26b133(0x14b)),$(_0x26b133(0x123))['text'](_0x26b133(0x14b)),$(_0x26b133(0x163))[_0x26b133(0x17a)](_0x26b133(0x14b)),$(_0x26b133(0x138))[_0x26b133(0x17a)](_0x26b133(0x14b)),$(_0x26b133(0x13f))[_0x26b133(0x162)](_0x26b133(0x116),''+linkOlshop+_0x54bbba),$('#mask')[_0x26b133(0x142)](_0x26b133(0x152)),$(_0x26b133(0x11a))[_0x26b133(0x18f)]('show'),$(_0x26b133(0x14c))[_0x26b133(0x17a)](_0x3b6817);},'success':function(_0x220719){var _0x352b76=_0x1eed1f;let _0x5b9460=_0x220719[_0x352b76(0x11d)];$(_0x352b76(0x18a))['text'](_0x5b9460[_0x352b76(0x176)]),$('#harga')[_0x352b76(0x17a)](_0x5b9460['price']),$('#harga2')[_0x352b76(0x17a)](_0x5b9460['price']),$(_0x352b76(0x163))[_0x352b76(0x17a)](_0x5b9460[_0x352b76(0x11f)]),$(_0x352b76(0x13d))[_0x352b76(0x17a)](_0x5b9460[_0x352b76(0x156)]),$('#full-bold')[_0x352b76(0x17a)](_0x5b9460[_0x352b76(0x128)]),$(_0x352b76(0x138))[_0x352b76(0x17a)](_0x5b9460[_0x352b76(0x173)]);let _0x5db309=_0x5b9460[_0x352b76(0x173)],_0xe8cee9=_0x5db309[_0x352b76(0x10f)](/\|/g,_0x352b76(0x115));$(_0x352b76(0x138))['append'](_0xe8cee9),$(_0x352b76(0x158))[_0x352b76(0x18c)](_0x352b76(0x152));},'error':function(){}}));}
+      function getContact() {
+        window.location.href = linkOlshop + "/ambil_kontak"
+      }
+      $('#nohp').on('input', function () {
+        $('#nohp').change()
+      })
+      var nohp = []
+      $('#nohp').on('change', function () {
+        var no = $(this).val()
+        newno = no.replace('-', '').trim()
+        var cek = newno.substring(0, 3).replace('-', '').trim()
+        var ceka = newno.substring(3, 16).replace('-', '').trim()
+        if (cek == '+62') {
+          let result = 0
+          $(this).val(result + ceka)
+          getNmr(result + ceka)
+        } else {
+          $(this).val(cek + ceka)
+          getNmr(cek + ceka)
+        }
+      });
+      function getNmr(val) {
+        var id = val.substring(0, 4)
+        if (id.length > 3 && nohp[0] != id) {
+          nohp[0] = id
+          cekNmr(nohp[0])
+        } else {
+        }
+      }
+
+      function cekNmr(id) {
+        $('#display').removeClass('d-none');
+        var reg = '';
+        var tf = '';
+        var masaaktif = '';
+
+        if (id.length < 4) {
+          $('span#addon_pulsa').html('error');
+          $('#display').hide();
+          $('#info').html("<div class='d-grid'><div class='container text-center'>Nomor Tidak Lengkap / Kode Operator Tidak Ditemukan.</div></div>");
+        } else {
+          $('#display').show();
+          $('#info').html('');
+          $('#loading').html('');
+
+          if (
+            id == '0811' ||
+            id == '0812' ||
+            id == '0813' ||
+            id == '0821' ||
+            id == '0822' ||
+            id == '0823' ||
+            id == '0852' ||
+            id == '0853'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('Telkomsel');
+            $('span#addon_pulsa').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/502555766s.jpg" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/502555766s.jpg" alt="">');
+            $('span#addon_pulsa_opt').html('Telkomsel');
+            reg = telkomselReguler;
+            tf = telkomselTransfer;
+          }
+          else if (
+            id == '0814' ||
+            id == '0815' ||
+            id == '0816' ||
+            id == '0855' ||
+            id == '0856' ||
+            id == '0857' ||
+            id == '0858'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('Indosat');
+            $('span#addon_pulsa').html('<img src="https://i.ibb.co/N6KhhY1/indosat-logo-by-idiotz.png" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://i.ibb.co/N6KhhY1/indosat-logo-by-idiotz.png" alt="">');
+            $('span#addon_pulsa_opt').html('Indosat');
+            reg = indosatReguler;
+            tf = indosatTransfer;
+          } else if (
+            id == '0851'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('By.U');
+            $('span#addon_pulsa').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/975223121e.jpg" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/975223121e.jpg" alt="">');
+            $('span#addon_pulsa_opt').html('By.U');
+            reg = byuReguler;
+            tf = byuTransfer;
+          } else if (
+            id == '0817' ||
+            id == '0818' ||
+            id == '0819' ||
+            id == '0859' ||
+            id == '0877' ||
+            id == '0878'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('XL Axiata');
+            $('span#addon_pulsa').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/841353370t.jpg" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/106083/841353370t.jpg" alt="">');
+            $('span#addon_pulsa_opt').html('XL-Axiata');
+            reg = xlReguler;
+            tf = xlTransfer;
+          } else if (
+            id == '0838' ||
+            id == '0831' ||
+            id == '0832' ||
+            id == '0833'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('Axis');
+            $('span#addon_pulsa').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/16338585.jpg" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/16338585.jpg" alt="">');
+            $('span#addon_pulsa_opt').html('Axis');
+            reg = axisReguler;
+            tf = axisTransfer;
+          } else if (
+            id == '0895' ||
+            id == '0896' ||
+            id == '0897' ||
+            id == '0898' ||
+            id == '0899'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('Tri');
+            $('span#addon_pulsa').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/94542056.jpg" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/94542056.jpg" alt="">');
+            $('span#addon_pulsa_opt').html('Tri');
+            reg = triReguler;
+            tf = triTransfer;
+          } else if (
+            id == '0881' ||
+            id == '0882' ||
+            id == '0883' ||
+            id == '0884' ||
+            id == '0885' ||
+            id == '0886' ||
+            id == '0887' ||
+            id == '0888' ||
+            id == '0889'
+          ) {
+            $('span#addon_pulsa').html('');
+            $('span#addon_pulsa_name').html('Smartfren');
+            $('span#addon_pulsa').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/21570258.jpg" alt="">');
+            $('span#addon_pulsa2').html('<img src="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/153444/21570258.jpg" alt="">');
+            $('span#addon_pulsa_opt').html('Smartfren');
+            reg = smartfrenReguler;
+            tf = smartfrenTransfer;
+          }
+          else {
+            $('span#addon_pulsa').html('<i class="fas fa-do-not-enter" style="color:red;"></i>')
+            $('#display').hide()
+            $('#data').html('')
+            $('#info').html("<div class='nothings container text-center'><img src='https://cdn-icons-png.flaticon.com/128/12324/12324286.png'><p>Operator Tidak Ditemukan</p></div>")
+          }
+        }
+        $('#reg').off('click')
+        $('#tf').off('click')
+        $('#reg').on('click', function () {
+          getData(reg)
+        })
+        $('#tf').on('click', function () {
+          getData(tf)
+        })
+        getData(reg)
+      }
+      function getData(kategori) {
+        var no = $('#nohp').val()
+        var link = linkOlshop
+        $.ajax({
+          type: "POST",
+          url: "https://kobodev.xyz/sistem/api/product.php",
+          data: {
+            api_key: key,
+            main: '',
+            kategori: kategori
+          },
+          dataType: "JSON",
+          beforeSend: function () {
+            $('#modalDetail').html('')
+            $('#data').html('')
+            for (let i = 0; i < 1; i++)
+              $('#fake').append('<div class="coloading"><div class="loader"></div></div>')
+          },
+          success: function (response) {
+            $('#loading').html('')
+            $('#fake').html('')
+            if (response.data.length !== 0) {
+              $.each(response.data, function (i, v) {
+                $('#data').append('<button class="d-produk my-shadow" id="btn-link" onclick="getDetail(\'' + v.links + '\')"><div class="icon-produk"><img class="img-produk" id="myImage" src="' + v.img + '"></div><div class="w-100"><p id="prod-name" class="nama-item">' + v.names + '</p><p class="caption-produk">Langsung Masuk Ke Nomor tujuan</p><p class="harga-item">' + v.prices + '</p><p class="m-0 diskon" id="d' + i + '"> <span class="text-decoration-line-through">' + v.price_old + '</span> <span class=" text-white rounded" style="font-size:10px;"> -' + v.discount + ' OFF</span></p></div><div></div></div></button>')
+                let discount = jQuery.isEmptyObject(v.discount) ? $(`#d${i}`).addClass('d-none') : v.discount;
+              });
+            } else {
+              $('#data').html("<div class='kosong mt-5'><div class= 'container text-center'><p> Produk Belum Tersedia</p></div > ")
+            }
+          },
+          error: function () {
+          }
+        });
+        $(document).on('click', ".submit-form", function () {
+          var no = $('#nohp').val()
+          $('#link-extra-info input').val(no);
+          $('#link-extra-info').attr('action', $(this).attr('href'));
+          $('#link-extra-info').submit();
+          return false;
+        });
+      }
+      function getDetail(produk) {
+        var no = $('#nohp').val()
+        if (no == '') {
+          Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'No Tujuan Tidak Boleh Kosong!',
+          })
+        } else {
+          $("#linkBeli").attr("href", "#");
+          $.ajax({
+            type: "POST",
+            url: "https://kobodev.xyz/sistem/api/detail.php",
+            data: {
+              detail: produk,
+              api_key: key,
+            },
+            dataType: "JSON",
+            beforeSend: function () {
+              $('#nama_produk').text('Loading...')
+              $('#no_tujuan').text('Loading...')
+              $('#harga').text('Loading...')
+              $('#harga2').text('Loading...')
+              $('#short-desc').text('Loading...')
+              $('#full-desc').text('Loading...')
+              $("#linkBeli").attr("href", "" + linkOlshop + produk);
+              $('#mask').removeClass('d-none')
+              $('#modalTrx').offcanvas('show')
+              $('#no_tujuan').text(no)
+            },
+            success: function (result) {
+              let response = result.data
+              $('#nama_produk').text(response.name)
+              $('#harga').text(response.price)
+              $('#harga2').text(response.price)
+              $('#short-desc').text(response.desc)
+              $('#full-text').text(response.full_text)
+              $('#full-bold').text(response.full_bolds)
+              $('#full-desc').text(response.full)
+              let text = response.full
+              let formated = text.replace(/\|/g, '<br/>- ')
+              $('#full-desc').append(formated)
+              $('#mask').addClass('d-none')
+            },
+            error: function () {
+            }
+          });
+        }
+      }
