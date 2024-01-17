@@ -51,7 +51,7 @@
       position: relative;
     }
     .tag-sc{
-      margin-bottom: 10px;
+      margin-bottom: 20px;
       margin-top: 5px;
       align-items: center;
     }
@@ -192,7 +192,7 @@
       background: var(--main) !important;
       border: none;
       font-weight: bold;
-      border-radius: 5px !important;
+      border-radius: 8px !important;
     }
     .nav-link{
       font-size: 14px;
