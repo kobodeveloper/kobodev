@@ -197,6 +197,7 @@
     .nav-link{
       font-size: 14px;
       border-radius: 5px !important;
+      color:black;
     }
     .d-produk{
       position: relative;
