@@ -194,7 +194,7 @@
       font-weight: bold;
       border-radius: 8px !important;
     }
-    .nav-link{
+    .nav-pills,.nav-item,.nav-link{
       font-size: 14px;
       border-radius: 5px !important;
       color:black;
